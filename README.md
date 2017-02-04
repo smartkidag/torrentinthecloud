@@ -42,7 +42,8 @@ xxx.xxx.xxx.xxx:3000
 Done. 
 
 ### Notes
-Thanks to jpillora for saving all our lives! see his original work at [jpillora's Cloud Torrent](https://github.com/jpillora/cloud-torrent)
+Thanks to jpillora for saving all our lives! see his original work at [jpillora's Cloud Torrent](https://github.com/jpillora/cloud-torrent).
+Please take time to read [my blog](https://smartkidag.wordpress.com)
 
 #### License
 
