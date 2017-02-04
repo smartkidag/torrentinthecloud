@@ -2,7 +2,7 @@
 <img src="https://cloud.githubusercontent.com/assets/633843/9855504/f30a715c-5b51-11e5-83f3-f4fab03e5459.png" alt="screenshot"/>
 
 JPillora's **cloud torrent** on Microsoft Azure! 
-This will make you use microsoft's Azure free trial (200$) for one month will the infamous cloud torren
+This will make you use microsoft's Azure free trial (200$) for one month with the infamous cloud-torrent!
 
 ### Install -
 
